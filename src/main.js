@@ -1,2 +1,2 @@
-const div = dom.create('div')
-console.log(div)
+const div = dom.create('<div>hellw</div>')
+let t = dom.find('#test')
